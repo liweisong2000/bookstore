@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.pic{
+			width: 160px;
+			height: 240px;
+			margin-top:30px;
+			margin-left:20px;
+		}
+		.orderde{
+			height:313px;
+			width:505px;
+			position: absolute;
+			background-color:#FFFFFF;
+			display:flex;
+		}
+		.orderde ul{
+			position: absolute;
+			margin-top:9px;
+			margin-left:170px;
+			list-style:none;
+			font-family:宋体;
+			font-weight:bold;
+			font-size:20px;
+		}
+		.orderde li{
+			margin-top:30px;
+		}

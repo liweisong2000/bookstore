@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [09/Mar/2023:13:04:52 +0800] "GET /bookstore/register HTTP/1.1" 200 3743 http-bio-8080-exec-1 319
+0:0:0:0:0:0:0:1 - - [09/Mar/2023:13:04:52 +0800] "GET /bookstore/css/register.css HTTP/1.1" 200 878 http-bio-8080-exec-3 19
+0:0:0:0:0:0:0:1 - - [09/Mar/2023:13:04:58 +0800] "GET /bookstore HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [09/Mar/2023:13:04:58 +0800] "GET /bookstore/ HTTP/1.1" 404 971 http-bio-8080-exec-5 16
+0:0:0:0:0:0:0:1 - - [09/Mar/2023:13:05:02 +0800] "GET /bookstore/login HTTP/1.1" 200 2844 http-bio-8080-exec-6 49

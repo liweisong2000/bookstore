@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.pic{
+			width: 160px;
+			height: 240px;
+			margin-top:30px;
+			margin-left:20px;
+		}
+		.intro{
+			height:313px;
+			width:505px;
+			position: absolute;
+			background-color:#FFFFFF;
+			display:flex;
+		}
+		.intro ul{
+			position: absolute;
+			margin-top:20px;
+			margin-left:170px;
+			list-style:none;
+			font-family:宋体;
+			font-weight:bold;
+			font-size:18px;
+		}
+		.intro li{
+			margin-top:15px;
+		}
+		.intro a{
+			font-size:17px;
+		}

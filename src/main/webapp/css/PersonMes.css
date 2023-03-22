@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+.style1{
+		font-size:12px;
+	}
+
+	.style2{
+		color:#FF0000;
+	}
+	.Person{
+			width:702px;
+			height:624px;
+			position:absolute;
+			top:67px;
+			left:419px;
+			margin:auto;
+			background-color:#ffffff;
+			text-align:left;
+			font-family:宋体;
+			font-weight:bold;
+			font-size:20px;
+			padding-top:50px;
+			box-sizing:border-box;
+            box-shadow: darkgrey 10px 10px 30px 5px ;	
+	}
+	.Person span{
+		position:absolute;
+		left:121px;
+		top:178px;
+	}
+	.per{
+			width:112px;
+			height:60px;
+			border:none;
+			position:absolute;
+			left:167px;
+			top:514px;
+			background-color:#009EFF;
+			font-size:20px;
+			font-family:宋体;
+			font-weight:bold;
+			color:#ffffff;
+		}
+	.bac{
+			width:112px;
+			height:60px;
+			border:none;
+			position:absolute;
+			left:452px;
+			top:514px;
+			background-color:#009EFF;
+			font-size:20px;
+			font-family:宋体;
+			font-weight:bold;
+			color:#ffffff;
+		}

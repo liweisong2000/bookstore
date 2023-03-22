@@ -1,0 +1,8 @@
+<!-- 注意！！！！这个插件只能在一个地方配置一次，如果再这里配置了，在mybatis-config.xml文件里面就不要配置了，否则会出现空指针问题！！！！-->
+
+<plugins>
+    <plugin interceptor="com.github.pagehelper.PageInterceptor">
+        <!--分页参数合理化  -->
+        <property name="reasonable" value="true"/>
+    </plugin>
+</plugins>

@@ -1,0 +1,290 @@
+@charset "UTF-8";
+
+/**{
+	outline:solid #f00 1px !important;
+	background:#000 !important;
+	color:#fff !important;
+}*/
+
+body {
+    margin: 0;
+    font-family:宋体;
+    font-weight:bold;
+}
+
+.head {
+    margin: 0 0 0 0;
+    height: 95px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.pic1{
+    width:60px;
+    height:60px;
+    position:absolute;
+    top:20px;
+    left:150px;
+}
+
+.pic2{
+    width:110px;
+    height:30px;
+    position:absolute;
+    top:35px;
+    left:220px;
+}
+
+.s1 {
+    border-radius: 24px;
+    border-color:red 1px solid;
+    width:570px;
+    height:45px;
+    position: absolute;
+    top: 22px;
+    font-size: 13px;
+    text-indent: 30px;
+}
+
+.searchp {
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    top: 27px;
+    left: 785px;
+    transform: translateX(-250px);
+}
+
+.sea {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 27px;
+    left: 525px;
+    opacity: 0;
+}
+
+.b1 {
+    width:90px;
+    height:50px;
+    position:absolute;
+    top:95px;
+    left:500px;
+    background-color:#E7F0F9;
+    font-size: 17px;
+    font-family:宋体;
+    font-weight:bold;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+
+.b1:hover{
+    color:#009EFF;
+}
+
+
+
+.b2{
+    width:90px;
+    height:50px;
+    position:absolute;
+    top:95px;
+    left:590px;
+    background-color:#E7F0F9;
+    font-size: 17px;
+    font-family:宋体;
+    font-weight:bold;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+
+.b2:hover {
+    color:#009EFF;
+}
+
+.b3{
+    width:90px;
+    height:50px;
+    position:absolute;
+    top:95px;
+    left:680px;
+    background-color:#E7F0F9;
+    font-size: 17px;
+    font-family:宋体;
+    font-weight:bold;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+
+.b3:hover {
+    color:#009EFF;
+}
+
+.b4{
+    width:90px;
+    height:50px;
+    position:absolute;
+    top:95px;
+    left:770px;
+    background-color:#E7F0F9;
+    font-size: 17px;
+    font-family:宋体;
+    font-weight:bold;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+
+.b4:hover {
+    color:#009EFF;
+}
+
+.b5{
+    width:90px;
+    height:50px;
+    position:absolute;
+    top:95px;
+    left:860px;
+    background-color:#E7F0F9;
+    font-size: 17px;
+    font-family:宋体;
+    font-weight:bold;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+
+.b5:hover {
+    color:#009EFF;
+}
+
+.b6{
+    width:90px;
+    height:50px;
+    position:absolute;
+    top:95px;
+    left:951px;
+    background-color:#E7F0F9;
+    font-size: 17px;
+    font-family:宋体;
+    font-weight:bold;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+
+.b6:hover {
+    color:#009EFF;
+}
+
+.b7{
+    width:90px;
+    height:50px;
+    position:absolute;
+    top:95px;
+    left:1042px;
+    background-color:#E7F0F9;
+    font-size: 17px;
+    font-family:宋体;
+    font-weight:bold;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+
+.b7:hover {
+    color:#009EFF;
+}
+
+.b8{
+    width:90px;
+    height:50px;
+    position:absolute;
+    top:95px;
+    left:1133px;
+    background-color:#E7F0F9;
+    font-size: 17px;
+    font-family:宋体;
+    font-weight:bold;
+    border: none;
+    outline: none;
+    cursor:pointer;
+}
+
+.b8:hover {
+    color:#009EFF;
+}
+
+.search {
+    position:absolute;
+    left:380px;
+    top:5px;
+}
+
+
+.log{
+    border-radius: 24px;
+    background-color:#009EFF;
+    width:100px;
+    height:45px;
+    position: absolute;
+    top: 22px;
+    right:150px;
+    font-size: 15px;
+    text-indent: 0px;
+    border:none;
+    color:white;
+}
+
+.center{
+    margin-top:0px;
+    height:50px;
+    background-color:#E7F0F9;
+    display: flex;
+
+}
+
+.userma{
+    font-size:18px;
+    font-weight:bold;
+    border:none;
+}
+
+.userma td{
+    border:none;
+    border-bottom-style:solid;
+    border-color:#8DB8E3;
+}
+
+.userma th{
+    border:none;
+    border-bottom-style:solid;
+    border-color:#8DB8E3;
+}
+
+.userma img{
+    width: 198px;
+    height: 298px;
+}
+
+.userma ul{
+    list-style: none;
+    align: justify;
+}
+
+.divide{
+    width:1030px;
+    height:2px;
+    background-color:#000000;
+    position:absolute;
+    top:452px;
+    left:191px;
+}
+
+.newadd{
+    position:absolute;
+    left:1000px;
+}
